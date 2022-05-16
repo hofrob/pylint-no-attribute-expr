@@ -1,0 +1,10 @@
+[MASTER]
+
+load-plugins=
+    pylint.extensions.private_import
+
+[MESSAGES CONTROL]
+
+disable=all
+enable=
+    C2701
